@@ -1,5 +1,3 @@
----
-
 # 🚀 **Termux Bot Setup Guide**  
 
 Welcome to the **Termux Bot Setup Guide**! This guide will help you install and run the bot on your mobile device using **Termux**. Please follow each step carefully.  
