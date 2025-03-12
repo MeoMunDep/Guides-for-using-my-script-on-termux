@@ -176,5 +176,6 @@ Download the updated version and replace your old files.
 
 ---
 
-- Use this script at your own risk and do not sell or try to modify it.
+__Use this script at your own risk and do not sell or try to modify it.__
+  
 🚀 **Enjoy using the bot on Termux!** 🚀
