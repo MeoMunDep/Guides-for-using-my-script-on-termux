@@ -51,13 +51,13 @@ npm -v
 
 1️⃣ **Clone the bot repository:**  
 ```bash
-git clone <repository-url> bot-folder
+git clone <repository-url> 
 cd bot-folder
 ```
 
 2️⃣ **Install dependencies:**  
 ```bash
-npm install --force -g user-agents axios colors https-proxy-agent socks-proxy-agent crypto-js ws uuid xlsx readline-sync
+npm install --force -g user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent crypto-js ws web3 ethers
 ```
 
 ---
