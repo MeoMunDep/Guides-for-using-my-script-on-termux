@@ -165,12 +165,11 @@ Download the updated version and replace your old files.
 
 ## 📞 **Contact & Support**  
 
-💰 **Buy me a Telegram account:** [Here](https://t.me/KeoAirDropFreeNe/312/27801)  
+📞 [Contact for work or order scripts](https://t.me/MeoMunDep)
+💸 [Support me via Donate](https://t.me/KeoAirDropFreeNe/312/27801)
+⚡ [Boost-Channel](https://t.me/boost/KeoAirDropFreeNee)
 
-💬 **Need help? Contact me on Telegram:**  
-📩 [Contact for work, do not dm me for error on bot](https://t.me/MeoMunDep)  
-👥 [Join the Support Group](https://t.me/KeoAirDropFreeNe)  
-📢 [Follow Updates](https://t.me/KeoAirDropFreeNee)  
+🌐 [Script Group](https://t.me/keoairdropfreene) | [Chat Group](https://t.me/keoairdropfreeneee) | [TikTok](https://www.tiktok.com/@meomundep) | [Instagram](https://www.instagram.com/meomundep) | [YouTube Channel](https://www.youtube.com/@keoairdropfreene)
 
 ---
 
