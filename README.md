@@ -129,7 +129,7 @@ To prevent the bot from stopping when you close Termux:
 
 ✅ **Using `nohup` (Logs saved to `output.log`)**  
 ```bash
-nohup node bot.js > output.log 2>&1 &
+nohup node meomundep.js > output.log 2>&1 &
 ```
 
 ✅ **Using `tmux` (If installed)**  
