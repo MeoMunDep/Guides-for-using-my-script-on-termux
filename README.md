@@ -51,7 +51,7 @@ npm -v
 
 1️⃣ **Clone the bot repository:**  
 ```bash
-git clone <repository-url> 
+git clone https://github.com/BlackCatSyndicate/bot-name.git
 cd bot-folder
 ```
 
