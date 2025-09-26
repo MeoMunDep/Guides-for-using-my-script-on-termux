@@ -57,7 +57,7 @@ cd bot-folder
 
 2️⃣ **Install dependencies:**  
 ```bash
-npm install --force -g user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent crypto-js ws web3 ethers
+npm install --force -g user-agents axios meo-forkcy-proxy meo-forkcy-utils meo-forkcy-logger meo-forkcy-colors ethers
 ```
 
 ---
