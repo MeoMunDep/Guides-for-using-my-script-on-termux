@@ -110,6 +110,8 @@ abc...xyz
 
 <details>
 <summary>3️⃣ <code>wallets.txt</code> - Wallet Addresses</summary>
+  
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 
 ```txt
 0xabc...xyz
